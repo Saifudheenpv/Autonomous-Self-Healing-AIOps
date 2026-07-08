@@ -80,6 +80,17 @@ diagrams/
 - Monitoring namespace created
 - Cluster health verified
 
+### ✅ Phase 3 – Application Platform
+
+- Flask application
+- Health & readiness endpoints
+- Prometheus metrics endpoint
+- Error simulation endpoint
+- Dockerized with Gunicorn
+- Deployed to Kubernetes
+- 2-replica Deployment
+- ClusterIP Service
+
 ## Architecture
 
 > Architecture diagram will be added during the project.
